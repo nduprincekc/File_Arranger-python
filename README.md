@@ -4,10 +4,10 @@ Intro
 This is a code for a simple File-Arranger
 
 Likbraries used:
-os
-shutil
-webbrowser
-tkinter
+os ,
+shutil,
+webbrowser,
+tkinter.
 
 This project will help you to know how password hacking is being done with python
 
