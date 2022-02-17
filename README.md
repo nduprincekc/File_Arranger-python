@@ -15,6 +15,8 @@ How to run
 Firstly download or clone this repo and then move into the project folder as shown below;
 
 $-> git clone https://github.com/nduprincekc/File_Arranger-python
+
+
 $-> cd code
 
 image
