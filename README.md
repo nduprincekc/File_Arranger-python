@@ -9,7 +9,7 @@ shutil,
 webbrowser,
 tkinter.
 
-This project will help you to know how password hacking is being done with python
+This project will help you to know python arran ge files based on the extension of the files
 
 How to run
 Firstly download or clone this repo and then move into the project folder as shown below;
